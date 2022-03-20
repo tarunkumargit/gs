@@ -16,7 +16,7 @@ const HeroFooter = () => {
     tl.to(
       '.hero-container',
       {
-        backgroundColor: 'white', // camelCase
+        backgroundColor: 'white',
         duration: 0.25, // seconds
       },
       '-=2'

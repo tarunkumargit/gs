@@ -7,8 +7,6 @@ function VideoElement({ src }) {
     <div className="hero-element">
       <video
         className="collage-element"
-        // playsinline=""
-        // webkit-playsinline=""
         autoPlay
         muted
         loop

@@ -62,8 +62,6 @@ const HeroPhoneBlock = () => {
       >
         <video
           className="collage-element"
-          // playsinline=""
-          // webkit-playsinline=""
           autoPlay
           muted
           loop

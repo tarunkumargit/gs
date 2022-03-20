@@ -18,6 +18,7 @@ const FeatureSlides = () => {
   const [activeFeatureIndex, setFeatureIndex] = useState(0);
   const featureSliderRef = useRef(null);
   const featureSlidesRightRef = useRef(null);
+
   useEffect(() => {
     function stopTrigger() {
       const tl = gsap.timeline({

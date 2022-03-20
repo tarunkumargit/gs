@@ -17,7 +17,7 @@ const HeroHeader = () => {
   }, []);
   return (
     <div className="hero-text-section">
-      <h1 id="hero-text">Stories meet their widest audience ever</h1>
+      <h1 id="hero-text">Stories meet their widest audience ever.</h1>
     </div>
   );
 };

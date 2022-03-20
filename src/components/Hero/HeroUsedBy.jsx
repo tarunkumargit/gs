@@ -9,7 +9,7 @@ const HeroUsedBy = () => {
         </p>
       </div>
       <div className="hero-usedBy-logos">
-        <p>Making an impact at</p>
+        <p>Making an impact</p>
       </div>
     </div>
   );

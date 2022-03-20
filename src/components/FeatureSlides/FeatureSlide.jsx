@@ -1,4 +1,4 @@
-import React, { useCallback, useRef, useEffect } from 'react';
+import React, { useRef, useEffect } from 'react';
 import useOnScreen from '../../hooks/useOnScreen';
 
 export default function FeatureSlide({
